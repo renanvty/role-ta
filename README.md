@@ -1,50 +1,61 @@
-# Welcome to your Expo app 👋
+HERO
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# 🍽️ Rolê-ta
 
-## Get started
+> Stop debating. Start eating.
 
-1. Install dependencies
+Rolê-ta is a mobile application that helps people decide where to eat by discovering nearby restaurants and randomly selecting one based on their preferences.
 
-   ```bash
-   npm install
-   ```
+Built with React Native, Expo and TypeScript.
 
-2. Start the app
+Screenshots
 
-   ```bash
-   npx expo start
-   ```
+<img width="736" height="1600" alt="screenshot 1" src="https://github.com/user-attachments/assets/40534b16-5b57-427a-9c4f-f7095f530970" />
 
-In the output, you'll find options to open the app in a
+<img width="736" height="1600" alt="screenshot 2" src="https://github.com/user-attachments/assets/514eb0dc-a4ac-448c-9b7d-210625bf0a6f" />
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Features
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- 📍 Current location detection
+- 🎲 Random restaurant selection
+- 🍕 Category filters
+- 📏 Radius selection
+- 🌙 Dark interface
+- ⚡ Fast and intuitive experience
 
-## Get a fresh project
+🚀 Tech Stack
 
-When you're ready, run:
+React Native
 
-```bash
-npm run reset-project
-```
+Expo
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+TypeScript
 
-## Learn more
+Expo Router
 
-To learn more about developing your project with Expo, look at the following resources:
+Expo Location
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+🛣️ Roadmap
 
-## Join the community
+- [x] Random restaurant wheel
+- [x] Geolocation support
+- [x] Category filters
+- [x] Radius selection
 
-Join our community of developers creating universal apps.
+### Next
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [ ] Favorite restaurants
+- [ ] Restaurant details
+- [ ] History
+- [ ] Share with friends
+- [ ] AI recommendations
+- [ ] Backend API (Python)
+- [ ] PostgreSQL
+- [ ] Authentication
+
+💡 Why I Built This
+
+Choosing where to eat shouldn't take longer than eating itself.
+
+I built Rolê-ta after realizing how often friends and family spend several minutes trying to decide where to go. Instead of endless discussions, Rolê-ta turns the decision into a fun experience by using location, filters, and a roulette wheel.
+
