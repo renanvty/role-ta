@@ -1,7 +1,5 @@
 # 🍽️ Rolê-ta
 
-# 🍽️ Rolê-ta
-
 > **Stop debating. Start eating.**
 
 Rolê-ta is a mobile application that helps users decide where to eat by discovering nearby restaurants and randomly selecting one based on their preferences.
@@ -23,8 +21,8 @@ Instead of spending time discussing where to go, simply spin the roulette and le
 
 
 <p align="center">
-  <img src="./docs/images/screenshot-home.jpeg" width="320"/>
-  <img src="./docs/images/screenshot-filters.jpeg" width="320"/>
+  <img src="./docs/images/screenshot_home.jpeg" width="320"/>
+  <img src="./docs/images/screenshot_filters.jpeg" width="320"/>
 </p>
 
 <p align="center">
