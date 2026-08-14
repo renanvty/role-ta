@@ -124,13 +124,10 @@ The goal isn't just to build an app, but to continuously improve it following re
 
 **Renan Alves Ramos**
 
-Backend Software Engineering Student
+Backend Software Engineering Student passionate about building real-world applications with Python and modern web technologies.
 
-Senior Digital Content Management Analyst @ Accenture
-
-🔗 GitHub
-
-🔗 LinkedIn
+[![GitHub](https://img.shields.io/badge/GitHub-renanvty-181717?logo=github)](https://github.com/renanvty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renan%20Ramos-0A66C2?logo=linkedin)](https://www.linkedin.com/in/renan-dev/)
 
 ---
 
@@ -146,3 +143,7 @@ New features are continuously being added as part of my Backend Software Enginee
 ## 📄 License
 
 MIT License
+
+---
+
+⭐ If you like this project, consider giving it a star!
