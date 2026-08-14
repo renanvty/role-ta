@@ -1,61 +1,97 @@
-HERO
-
 # 🍽️ Rolê-ta
 
 > Stop debating. Start eating.
 
-Rolê-ta is a mobile application that helps people decide where to eat by discovering nearby restaurants and randomly selecting one based on their preferences.
+Rolê-ta is a mobile application that helps users decide where to eat by discovering nearby restaurants and randomly selecting one based on their preferences.
 
-Built with React Native, Expo and TypeScript.
+Built with **React Native**, **Expo**, and **TypeScript**.
 
-Screenshots
+---
 
-<img width="736" height="1600" alt="screenshot 1" src="https://github.com/user-attachments/assets/40534b16-5b57-427a-9c4f-f7095f530970" />
+## 📱 Preview
 
-<img width="736" height="1600" alt="screenshot 2" src="https://github.com/user-attachments/assets/514eb0dc-a4ac-448c-9b7d-210625bf0a6f" />
+<p align="center">
+  <img src="./docs/images/home.png" width="300"/>
+  <img src="./docs/images/wheel.png" width="300"/>
+</p>
 
-Features
+---
 
-- 📍 Current location detection
-- 🎲 Random restaurant selection
-- 🍕 Category filters
-- 📏 Radius selection
-- 🌙 Dark interface
+## ✨ Features
+
+- 📍 Detect your current location
+- 🎲 Spin a restaurant roulette
+- 🍕 Filter by restaurant category
+- 📏 Select search radius
+- 🌙 Clean dark interface
 - ⚡ Fast and intuitive experience
 
-🚀 Tech Stack
+---
 
-React Native
+## 🛠️ Tech Stack
 
-Expo
+- React Native
+- Expo
+- Expo Router
+- TypeScript
+- Expo Location API
 
-TypeScript
+---
 
-Expo Router
+## 🚀 Getting Started
 
-Expo Location
+```bash
+git clone https://github.com/renanvty/role-ta.git
 
-🛣️ Roadmap
+cd role-ta
 
-- [x] Random restaurant wheel
-- [x] Geolocation support
+npm install
+
+npx start
+```
+
+---
+
+## 🗺️ Roadmap
+
+### Current
+
+- [x] Restaurant roulette
+- [x] Current location
 - [x] Category filters
-- [x] Radius selection
+- [x] Search radius
 
 ### Next
 
-- [ ] Favorite restaurants
 - [ ] Restaurant details
+- [ ] Favorites
 - [ ] History
-- [ ] Share with friends
-- [ ] AI recommendations
+- [ ] Share result
+- [ ] User authentication
 - [ ] Backend API (Python)
-- [ ] PostgreSQL
-- [ ] Authentication
+- [ ] PostgreSQL database
+- [ ] AI restaurant recommendations
 
-💡 Why I Built This
+---
+
+## 💡 Why I Built This
 
 Choosing where to eat shouldn't take longer than eating itself.
 
-I built Rolê-ta after realizing how often friends and family spend several minutes trying to decide where to go. Instead of endless discussions, Rolê-ta turns the decision into a fun experience by using location, filters, and a roulette wheel.
+Rolê-ta was created to solve a very common problem: groups of friends or couples spending several minutes deciding where to eat.
 
+Instead of endless discussions, the app turns the decision into a fun experience using location, filters, and a roulette wheel.
+
+---
+
+## 📌 Status
+
+🚧 Currently under active development.
+
+New features are continuously being added as part of my Backend Software Engineering learning journey.
+
+---
+
+## 📄 License
+
+MIT License
